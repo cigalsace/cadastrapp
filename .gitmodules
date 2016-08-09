@@ -1,3 +1,6 @@
 [submodule "wiki_doc"]
 	path = wiki_doc
 	url = https://github.com/cigalsace/cadastrapp.wiki.git
+[submodule "wiki_docs"]
+	path = wiki_docs
+	url = https://github.com/georchestra/cadastrapp.wiki.git
